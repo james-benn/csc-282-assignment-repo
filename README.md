@@ -1,7 +1,10 @@
 # csc-312-assignment-repo
 Name: James Ekemini Okon
+
 Matric number: 23/CSC/312
+
 Course code: CSC 282
+
 Assignment title: Student Registration System 
 
 INSTRUCTIONS ON HOW TO SETUP AND RUN THE PROJECT 
