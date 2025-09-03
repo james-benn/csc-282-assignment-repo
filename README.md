@@ -7,6 +7,7 @@ Course code: CSC 282
 
 Assignment title: Student Registration System 
 
+
 INSTRUCTIONS ON HOW TO SETUP AND RUN THE PROJECT 
 User Instructions
 Register a Student
@@ -47,26 +48,47 @@ This project uses **PHP** and **XAMPP**.
 - Delete student records
 
 ## Setup Instructions (For Developers)
+
   Install [XAMPP](https://www.apachefriends.org/index.html).
+  
   Start **Apache** and **MySQL** from the XAMPP Control Panel.
+  
   Open [phpMyAdmin](http://localhost/phpmyadmin/).
+  
   Create a database:
+  
   sql
+  
   CREATE DATABASE registration;
+  
   Create a table:
+  
   CREATE TABLE students (
+  
   id INT AUTO_INCREMENT PRIMARY KEY,
+  
   fullname VARCHAR(100) NOT NULL,
+  
   email VARCHAR(100) NOT NULL UNIQUE,
+  
   department VARCHAR(100) NOT NULL,
+  
   matric_number VARCHAR(50) NOT NULL UNIQUE
+
 );
 
+
 Place the project files inside: C:\xampp\htdocs\php_form\
+
 Files include:
+
 index.php (registration form)
+
 process.php (handles form submission)
+
 view.php (view & delete records)
 
+
 Open the app in your browser:
+
 http://localhost/php_form/index.php
