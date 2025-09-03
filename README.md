@@ -92,12 +92,13 @@ index.php (registration form)
 
 process.php (handles form submission)
 
-##XAMPP DATABASE OUTPUT 
-http://localhost/phpmyadmin/index.php?route=/database/structure&db=registration
-
 view.php (view & delete records)
 
 
 Open the app in your browser:
 
 http://localhost/php_form/index.php
+
+##XAMPP DATABASE OUTPUT 
+http://localhost/phpmyadmin/index.php?route=/database/structure&db=registration
+
