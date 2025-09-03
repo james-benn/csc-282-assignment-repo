@@ -9,8 +9,14 @@ Assignment title: Student Registration System
 
 
 INSTRUCTIONS ON HOW TO SETUP AND RUN THE PROJECT 
+
+A simple PHP web application for registering and managing student records. 
+This project uses **PHP** and **XAMPP**
+
 User Instructions
+
 Register a Student
+
 1. Go to the registration page.
 2. Fill in Full Name, Email, Department, Matric Number.
 3. Click Submit.
@@ -26,11 +32,11 @@ Delete Student
 2. The student will be removed.
 
 Notes
+
 IDs are automatically assigned.
+
 Each email and matric number must be unique.
 
-A simple PHP web application for registering and managing student records. 
-This project uses **PHP** and **XAMPP**.
 
 ## Features
 - Register new students with:
