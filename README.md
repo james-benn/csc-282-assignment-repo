@@ -102,3 +102,4 @@ http://localhost/php_form/index.php
 ##XAMPP DATABASE OUTPUT 
 http://localhost/phpmyadmin/index.php?route=/database/structure&db=registration
 
+http://localhost/phpmyadmin/index.php?route=/sql&db=registration&table=students&pos=0&lang=en
