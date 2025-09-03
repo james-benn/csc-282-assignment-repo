@@ -15,7 +15,7 @@ This project uses **PHP** and **XAMPP**
 
 User Instructions
 
-Register a Student
+#Register a Student
 
 1. Go to the registration page.
 2. Fill in Full Name, Email, Department, Matric Number.
@@ -23,15 +23,15 @@ Register a Student
 4. If successful, you’ll see a confirmation message.
 If an error occurs, use the Go Back link to retry.
 
-View Students
+#View Students
 1. Go to view.php or click View Records.
 2. A table will list all students.
    
-Delete Student
+#Delete Student
 1. On view.php, click the Delete button beside a record.
 2. The student will be removed.
 
-Notes
+#Notes
 
 IDs are automatically assigned.
 
